@@ -38,3 +38,9 @@ footer p {
   background-color: rgb(153, 153, 153) !important;
   color: white !important;
 }
+
+@media (max-width: 767px) {
+  .button {
+    padding: 10px;
+  }
+}
