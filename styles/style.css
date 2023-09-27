@@ -39,7 +39,7 @@ footer p {
   color: white !important;
 }
 
-@media (max-width: 767px) {
+@media (max-width: 480px) {
   .button {
     padding: 10px;
   }
